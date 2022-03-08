@@ -1,1 +1,7 @@
 # SmokeScreen
+
+I participated in the 2022 Makerthon, hosted by the University of Nevada, Reno InNEVation Center. I was one of four students selected to represent the UNR Undergraduate Team amongst 4 competing teams. There was 16 amazing students, compiled into 4 teams, the High School Team, the Truckee Meadows Community College Team, the UNR Undergraduate Team, and the UNR Graduate Team. 
+
+We had 48 hours to come up with a product that would address a pain point within the given prompt. The prompt was that wildfires have become an increasing problem in the local and global community. Three big concerns of first responders and government agencies have been health management, early detection, and fire extinguishment. The final decision would be based on how well the product addressed the prompt, the feasibility of the product (with respect to economics and manufacturing), and the marketability of the product. 
+
+Our team, “Team StarFruit,” decided to address the first two points of concern, health management and early detection. We also decided to target individuals that suffer from acute or chronic respiratory diseases/conditions as this is a group that is dispropotionately affected by wildfire smoke. Hence, the “SmokeScreen” was born. We prototyped a piece of wearable technology, leveraging a small smoke sensor, effectively creating a miniature smoke detector. We also concepted a mobile application that provides awareness, education & data about your own health & how it relates to smoke exposure.
